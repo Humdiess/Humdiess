@@ -1,3 +1,5 @@
+<img align="center" src="frontend_text_2.jpg">
+
 <h1 align="center">Hi 👋, I'm Masyhudi Affandi</h1>
 <h3 align="center">A student of SMK Telkom Sidoarjo</h3>
 
