@@ -1,4 +1,4 @@
-## Hi there 👋
+<h3 style="text-align:center;">H3 that is center aligned</h3>
 **Humdiess/Humdiess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- ![Leetcode Stats](https://leetcard.jacoblin.cool/humdiess?theme=unicorn&font=Libre%20Baskerville)
+![Leetcode Stats](https://leetcard.jacoblin.cool/humdiess?theme=unicorn&font=Libre%20Baskerville)
