@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Agriconnect](agriconnect.my.id)
 
-- 🌱 I’m currently learning **Cyber Security, Roblox Game Development**
+- 🌱 I’m currently learning **Cyber Security, Web3**
 
 - 👨‍💻 All of my projects are available at [masyhudi-affandi.my.id](masyhudi-affandi.my.id)
 
