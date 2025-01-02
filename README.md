@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hudi</h1>
-<h3 align="center">A Passionate Developer Exploring Cybersecurity and Web3</h3>
+<h1 align="center">Hi 👋, I'm Masyhudi Affandi</h1>
+<h3 align="center">A Passionate Web Developer from Sidoarjo</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=humdiess&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=masyhudiaffandi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -16,7 +16,13 @@
 
 ---
 
-### 🌐 Connect With Me:
+### 🏆 Achievements
+- **Juara dalam Kompetisi di SMK Telkom Sidoarjo**  
+  Prestasi ini diakui oleh SMK Telkom Sidoarjo. :contentReference[oaicite:0]{index=0}
+
+---
+
+### 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/masyhudi-affandi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -31,7 +37,7 @@
 
 ---
 
-### 💻 Languages and Tools:
+### 💻 Languages and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" />
@@ -44,29 +50,20 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=humdiess&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=masyhudiaffandi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humdiess&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masyhudiaffandi&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humdiess&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 Achievements:
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=humdiess&theme=radical&no-frame=true" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masyhudiaffandi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🧠 LeetCode Stats:
+### 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/humdiess?theme=unicorn&font=Libre%20Baskerville" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/masyhudiaffandi?theme=unicorn&font=Libre%20Baskerville" alt="LeetCode Stats" />
 </p>
