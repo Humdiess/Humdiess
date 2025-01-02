@@ -1,25 +1,24 @@
-<h1 align="center">Hi 👋, I'm Masyhudi Affandi</h1>
-<h3 align="center">Web Developer | Cybersecurity Enthusiast | Nature Lover 🌿</h3>
+<h1 align="center">🌿 Hello, I'm Masyhudi Affandi 🌿</h1>
+<h3 align="center">Web Developer | Cybersecurity Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masyhudiaffandi&label=Visitors&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=masyhudiaffandi&label=Visitors&color=3BB143&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🌟 About Me
-Hello! I'm Masyhudi Affandi, a web developer from **Sidoarjo** with a deep love for coding and the great outdoors 🌄. When I’m not crafting clean, efficient code, you’ll probably find me hiking up a mountain or admiring nature’s beauty. I believe that just like coding, climbing mountains teaches resilience and determination.
+Hi! I'm Masyhudi Affandi, a web developer who enjoys building modern, user-friendly web applications. My focus is on creating scalable and maintainable code while continuously exploring new technologies like cybersecurity and Web3. 
 
 Here’s a little about me:
 - 🔭 **Currently working on:** [Agriconnect](https://agriconnect.my.id) 🌾  
 - 🌱 **Learning:** Cybersecurity & Blockchain  
-- 🏔️ **Passion:** Exploring mountains and building scalable web applications  
-- 📫 **Contact me at:** masyhudiaffandi816@gmail.com  
+- 📫 **Reach me at:** masyhudiaffandi816@gmail.com  
 - 🌐 **Portfolio:** [masyhudi-affandi.my.id](https://masyhudi-affandi.my.id)  
 
 ---
 
-### 🛠️ My Toolbox
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -35,18 +34,10 @@ Here’s a little about me:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masyhudiaffandi&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masyhudiaffandi&theme=vue-dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masyhudiaffandi&layout=compact&theme=vue-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=masyhudiaffandi&show_icons=true&theme=forest" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masyhudiaffandi&theme=forest" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masyhudiaffandi&layout=compact&theme=forest" alt="Top Languages" />
 </p>
-
----
-
-### 🏔️ My Journey
-As a nature lover and mountain enthusiast, I see life as an adventure filled with challenges. Just like summiting a peak, coding requires perseverance and problem-solving skills. My experiences in the outdoors often inspire the way I approach coding and teamwork. Some of my favorite climbing destinations include:
-- **Mount Semeru** (Java’s highest peak 🌋)  
-- **Mount Bromo** (An unforgettable sunrise experience 🌅)  
-- **Mount Rinjani** (Challenging but worth it 💪)
 
 ---
 
@@ -62,5 +53,5 @@ As a nature lover and mountain enthusiast, I see life as an adventure filled wit
 
 ---
 
-### 🌟 Let’s Build Together!
-I’m always excited to collaborate with like-minded individuals who love technology, nature, or both! Whether it’s a coding project or an epic hike, let’s connect and make something amazing. 🚀
+### 🚀 Let's Connect!
+I’m always open to connecting with like-minded professionals and discussing exciting opportunities. Let’s create something impactful together! 🌟
