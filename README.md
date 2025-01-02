@@ -1,5 +1,5 @@
-<h1 align="center">✨ Yo, I'm Masyhudi Affandi ✨</h1>
-<h3 align="center">Web Developer | Cybersecurity Enthusiast | Anime Fanatic 🐉</h3>
+<h1 align="center">Hi 👋, I'm Masyhudi Affandi</h1>
+<h3 align="center">Web Developer | Cybersecurity Enthusiast | Nature Lover 🌿</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=masyhudiaffandi&label=Visitors&color=blue&style=flat-square" alt="Profile Views" />
@@ -7,20 +7,19 @@
 
 ---
 
-### 🌸 Who Am I?
-Hello! I'm Masyhudi Affandi, a web developer from **Sidoarjo** with a passion for coding, cybersecurity, and a bit of otaku vibes 🎮. I love crafting modern, scalable applications while also exploring the mysteries of Web3 and cybersecurity.
+### 🌟 About Me
+Hello! I'm Masyhudi Affandi, a web developer from **Sidoarjo** with a deep love for coding and the great outdoors 🌄. When I’m not crafting clean, efficient code, you’ll probably find me hiking up a mountain or admiring nature’s beauty. I believe that just like coding, climbing mountains teaches resilience and determination.
 
-When I'm not coding, you'll find me binge-watching anime or reading manga (Naruto still holds a special place in my heart 💙). If you're here to learn about me, here's the TL;DR:
-
+Here’s a little about me:
 - 🔭 **Currently working on:** [Agriconnect](https://agriconnect.my.id) 🌾  
-- 🌱 **Learning:** Cybersecurity, Blockchain, and mastering the art of debugging 🐛  
-- 💬 **Ask me about:** React, Laravel, or even your favorite anime plot twists!  
+- 🌱 **Learning:** Cybersecurity & Blockchain  
+- 🏔️ **Passion:** Exploring mountains and building scalable web applications  
 - 📫 **Contact me at:** masyhudiaffandi816@gmail.com  
 - 🌐 **Portfolio:** [masyhudi-affandi.my.id](https://masyhudi-affandi.my.id)  
 
 ---
 
-### 💻 My Toolbox
+### 🛠️ My Toolbox
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -34,20 +33,20 @@ When I'm not coding, you'll find me binge-watching anime or reading manga (Narut
 
 ---
 
-### 🎯 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masyhudiaffandi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masyhudiaffandi&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masyhudiaffandi&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=masyhudiaffandi&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masyhudiaffandi&theme=vue-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masyhudiaffandi&layout=compact&theme=vue-dark" alt="Top Languages" />
 </p>
 
 ---
 
-### 🍙 Fun Facts About Me
-- My first coding project was building a **"To-Do List"**, and now I’m building platforms like **Agriconnect** 🌾.  
-- I learned debugging from watching anime battles – never give up until the final move 🥷.  
-- My favorite anime character: **Itachi Uchiha** (The OG legend).  
-- Side quest: Becoming a cybersecurity ninja while sipping matcha 🍵.
+### 🏔️ My Journey
+As a nature lover and mountain enthusiast, I see life as an adventure filled with challenges. Just like summiting a peak, coding requires perseverance and problem-solving skills. My experiences in the outdoors often inspire the way I approach coding and teamwork. Some of my favorite climbing destinations include:
+- **Mount Semeru** (Java’s highest peak 🌋)  
+- **Mount Bromo** (An unforgettable sunrise experience 🌅)  
+- **Mount Rinjani** (Challenging but worth it 💪)
 
 ---
 
@@ -63,5 +62,5 @@ When I'm not coding, you'll find me binge-watching anime or reading manga (Narut
 
 ---
 
-### 🎮 Let's Build Together!
-If you’re a fellow coder, anime enthusiast, or someone looking for collaboration, feel free to reach out! I’m always open to learning, growing, and sharing knowledge (or anime recommendations). Let's code and vibe together! 🚀
+### 🌟 Let’s Build Together!
+I’m always excited to collaborate with like-minded individuals who love technology, nature, or both! Whether it’s a coding project or an epic hike, let’s connect and make something amazing. 🚀
