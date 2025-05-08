@@ -1,57 +1,64 @@
-<h1 align="center">🌿 Hello, I'm Masyhudi Affandi 🌿</h1>
-<h3 align="center">Web Developer | Cybersecurity Enthusiast | Lifelong Learner</h3>
+<h1 align="center">🌿 Masyhudi Affandi</h1>
+<p align="center"><em>Web Developer • Cybersecurity Learner • Curious Mind</em></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masyhudiaffandi&label=Visitors&color=3BB143&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=masyhudiaffandi&label=Visitors&color=8BC34A&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### 🌟 About Me
-Hi! I'm Masyhudi Affandi, a web developer who enjoys building modern, user-friendly web applications. My focus is on creating scalable and maintainable code while continuously exploring new technologies like cybersecurity and Web3. 
+## 👋 About Me
 
-Here’s a little about me:
-- 🔭 **Currently working on:** [Agriconnect](https://agriconnect.my.id) 🌾  
-- 🌱 **Learning:** Cybersecurity & Blockchain  
-- 📫 **Reach me at:** masyhudiaffandi816@gmail.com  
-- 🌐 **Portfolio:** [masyhudi-affandi.my.id](https://masyhudi-affandi.my.id)  
+Hi there! I’m Masyhudi, a passionate web developer who enjoys crafting clean and accessible web interfaces. I’m also diving into the world of **Cybersecurity** and **Blockchain**.
+
+- 🔭 Building: [Agriconnect 🌾](https://agriconnect.my.id) — bridging tech & farming  
+- 🌱 Learning: Cybersecurity & Web3 fundamentals  
+- 📬 Contact me: **masyhudiaffandi816@gmail.com**  
+- 🌍 Portfolio: [masyhudi-affandi.my.id](https://masyhudi-affandi.my.id)
 
 ---
 
-### 🛠️ Tech Stack
+## ⚙️ Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/HTML5-e44d26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masyhudiaffandi&show_icons=true&theme=forest" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masyhudiaffandi&theme=forest" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masyhudiaffandi&layout=compact&theme=forest" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=masyhudiaffandi&show_icons=true&theme=calm&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masyhudiaffandi&theme=calm&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masyhudiaffandi&layout=compact&theme=calm&hide_border=true" width="50%" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://linkedin.com/in/masyhudi-affandi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/humdiee.js" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🚀 Let's Connect!
-I’m always open to connecting with like-minded professionals and discussing exciting opportunities. Let’s create something impactful together! 🌟
+<p align="center">
+  <em>“Code for impact, learn for growth.”</em>
+</p>
