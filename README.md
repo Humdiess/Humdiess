@@ -45,7 +45,7 @@ Currently exploring **Cybersecurity** and **Web3**, while keeping things ✨simp
 
 ### 🎧 Now Playing
 <p align="center">
-  <a href="https://open.spotify.com/user/31ffo6p5o7pmsvnopnwb5tc72pce">
+  <a href="https://open.spotify.com/user/31345t4pg7apmd4j2ryadodnzvwi?si=d9d1b07e460d4d39">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ffo6p5o7pmsvnopnwb5tc72pce&cover_image=true&theme=default&bar_color=91b6f0&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
 </p>
