@@ -1,69 +1,78 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Masyhudi Affandi",
+    "username": "masyhudiaffandi",
+    "headline": "Telecommunication Engineering Student & Web Developer",
+    "affiliation": "Politeknik Elektronika Negeri Surabaya (PENS)",
+    "location": "Surabaya, Indonesia",
+    "status": "Building / CTF / Coding",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "Telecommunication Engineering student at PENS who loves exploring cybersecurity, frontend development, and AI-assisted workflows.",
+      "I focus on building practical systems—from interactive web applications and CTF security write-ups to IoT-based smart solutions."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Web Security & Smart Systems",
+    "direction": "Practical web applications and IoT integrations",
+    "themes": "Webmaster / Smart Farming IoT / Frontend Architecture / CTF",
+    "narrative": "I build and secure modern software systems, combining frontend engineering, IoT microcontrollers, and continuous problem-solving through Capture The Flag (CTF) challenges."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Frontend & Web Development",
+      "description": "Building modern, responsive web applications and custom systems using Laravel, Livewire, and modern JS frameworks."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Cybersecurity & CTF",
+      "description": "Analyzing vulnerabilities, solving CTF challenges, and writing technical write-ups."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "IoT & Smart Systems",
+      "description": "Integrating microcontrollers (ESP32/Arduino) with sensors for real-world automated monitoring solutions."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Interactive Campus Map",
+      "url": "https://github.com/masyhudiaffandi/school-promotion-map",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Web Map & Interactive UI",
+      "summary": "An interactive map application developed for school promotion and navigation purposes.",
+      "heroLabel": "Featured Build"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "Smart Farming IoT System",
+      "url": "https://github.com/masyhudiaffandi/smart-farming-iot",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "IoT & Automation",
+      "summary": "IoT-based monitoring and smart farming system designed for agricultural optimization.",
+      "heroLabel": "Active Project"
     }
   ],
   "techStack": [
+    "Laravel",
+    "Livewire",
     "TypeScript",
     "Next.js",
+    "Tailwind CSS",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "ESP32 / IoT"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "masyhudiaffandi",
+      "url": "https://github.com/masyhudiaffandi",
       "logo": "github",
       "color": "0B1220"
+    },
+    {
+      "label": "Medium",
+      "value": "@masyhudiaffandi",
+      "url": "https://medium.com/@masyhudiaffandi",
+      "logo": "medium",
+      "color": "000000"
     }
   ],
   "activity": {
@@ -73,5 +82,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building thoughtful systems, hacking CTFs, and sharing what works."
 }
