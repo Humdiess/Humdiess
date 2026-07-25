@@ -3,8 +3,8 @@
   "profile": {
     "name": "Masyhudi Affandi",
     "username": "masyhudiaffandi",
-    "headline": "Telecommunication Engineering Student & Web Developer",
-    "affiliation": "Politeknik Elektronika Negeri Surabaya (PENS)",
+    "headline": "Telecommunication Engineering Student",
+    "affiliation": "Politeknik Elektronika Negeri Surabaya",
     "location": "Surabaya, Indonesia",
     "status": "Building / CTF / Coding",
     "about": [
@@ -14,8 +14,8 @@
   },
   "research": {
     "primary": "Web Security & Smart Systems",
-    "direction": "Practical web applications and IoT integrations",
-    "themes": "Webmaster / Smart Farming IoT / Frontend Architecture / CTF",
+    "direction": "web applications and IoT integrations",
+    "themes": "Webmastering, IoT, and Cybersecurity",
     "narrative": "I build and secure modern software systems, combining frontend engineering, IoT microcontrollers, and continuous problem-solving through Capture The Flag (CTF) challenges."
   },
   "focus": [
@@ -34,19 +34,19 @@
   ],
   "projects": [
     {
-      "name": "Interactive Campus Map",
-      "url": "https://github.com/masyhudiaffandi/school-promotion-map",
+      "name": "Agriconnect",
+      "url": "https://github.com/Humdiess/Agriconnect",
       "homepage": "",
-      "focus": "Web Map & Interactive UI",
-      "summary": "An interactive map application developed for school promotion and navigation purposes.",
+      "focus": "IoT & Smart Agriculture",
+      "summary": "A smart agriculture system that monitors soil moisture and automates irrigation using ESP32 and sensors.",
       "heroLabel": "Featured Build"
     },
     {
-      "name": "Smart Farming IoT System",
-      "url": "https://github.com/masyhudiaffandi/smart-farming-iot",
+      "name": "PensCert",
+      "url": "https://github.com/Humdiess/PensCert",
       "homepage": "",
-      "focus": "IoT & Automation",
-      "summary": "IoT-based monitoring and smart farming system designed for agricultural optimization.",
+      "focus": "Cybersecurity & Document Verification",
+      "summary": "A platform for securing documents and certificates on PENS.",
       "heroLabel": "Active Project"
     }
   ],

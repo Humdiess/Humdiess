@@ -25,7 +25,7 @@
     "developer-portfolio"
   ],
   "license": "MIT",
-  "dependencies": {
-    "sharp": "^0.34.5"
+  "devDependencies": {
+    "sharp": "^0.35.3"
   }
 }
