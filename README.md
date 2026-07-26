@@ -46,7 +46,7 @@ I build and secure modern software systems, combining frontend engineering, IoT 
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-_Recent public activity will appear here after the workflow runs._
+_No recent public activity was found._
 <!-- AUTO:ACTIVITY:END -->
 
 ---
